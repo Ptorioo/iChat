@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased text-neutral-100 bg-neutral-950;
+  }
+}
+
+@layer utilities {
+  .bg-grid-pattern {
+    background-image: linear-gradient(to right, #1e293b20 1px, transparent 1px),
+      linear-gradient(to bottom, #1e293b20 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+}
