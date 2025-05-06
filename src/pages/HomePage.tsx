@@ -152,7 +152,7 @@ const HomePage: React.FC = () => {
                 <div className="absolute -inset-0.5 rounded-xl bg-gradient-to-r from-primary-500 to-secondary-500 opacity-75 blur-lg"></div>
                 <div className="relative rounded-xl overflow-hidden border border-neutral-800 bg-neutral-900">
                   <img 
-                    src="https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200" 
+                    src="https://i.imgur.com/H5usBru.jpeg" 
                     alt="AI Conversation Interface" 
                     className="w-full h-auto"
                   />
@@ -194,7 +194,7 @@ const HomePage: React.FC = () => {
               <iframe 
                 width="100%" 
                 height="100%" 
-                src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+                src="https://www.youtube.com/embed/EIa1gP4FKu8" 
                 title="Product Demo Video" 
                 frameBorder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 

@@ -16,27 +16,6 @@ const TeamPage: React.FC = () => {
       image:
         'https://files.catbox.moe/mgunnp.gif',
     },
-    {
-      name: 'Michael Rodriguez',
-      role: 'Head of Product Design',
-      bio: 'Michael brings 10+ years of experience in product design and user experience. His designs have won multiple industry awards for innovation and usability.',
-      image:
-        'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=300',
-    },
-    {
-      name: 'Emily Williams',
-      role: 'VP of Marketing',
-      bio: 'Emily has a proven track record in building tech brands and developing successful go-to-market strategies for innovative products.',
-      image:
-        'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=300',
-    },
-    {
-      name: 'David Kim',
-      role: 'Lead Software Engineer',
-      bio: 'David is a brilliant software architect with expertise in developing complex systems. He leads our engineering team in creating robust and scalable solutions.',
-      image:
-        'https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=300',
-    },
   ];
 
   return (

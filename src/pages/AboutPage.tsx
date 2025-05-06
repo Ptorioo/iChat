@@ -134,7 +134,7 @@ const AboutPage: React.FC = () => {
               <div className="absolute -inset-0.5 rounded-xl bg-gradient-to-r from-primary-500 to-secondary-500 opacity-75 blur-lg"></div>
               <div className="relative rounded-xl overflow-hidden border border-neutral-800 bg-neutral-900">
                 <img 
-                  src="https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1200" 
+                  src="https://i.imgur.com/eJdfogn.jpeg" 
                   alt="Our Story" 
                   className="w-full h-auto"
                 />
@@ -214,7 +214,7 @@ const AboutPage: React.FC = () => {
               <div className="absolute -inset-0.5 rounded-xl bg-gradient-to-r from-primary-500 to-secondary-500 opacity-75 blur-lg"></div>
               <div className="relative rounded-xl overflow-hidden border border-neutral-800 bg-neutral-900">
                 <img 
-                  src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1200" 
+                  src="https://i.imgur.com/Gdqw8Xw.jpeg" 
                   alt="Our Mission" 
                   className="w-full h-auto"
                 />

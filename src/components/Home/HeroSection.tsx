@@ -107,7 +107,7 @@ const HeroSection: React.FC = () => {
             <div className="absolute -inset-0.5 rounded-2xl bg-gradient-to-r from-primary-500 to-secondary-500 opacity-75 blur-xl"></div>
             <div className="relative rounded-2xl overflow-hidden border border-neutral-800 bg-neutral-900">
               <img 
-                src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1200" 
+                src="https://i.imgur.com/mbxxick.jpeg" 
                 alt="AI Conversation Interface" 
                 className="w-full h-auto"
               />
