@@ -286,9 +286,7 @@ const AboutPage: React.FC = () => {
               </div>
               <h3 className="text-white font-semibold text-lg mb-2">Our Location</h3>
               <p className="text-neutral-400">
-                123 Innovation Drive<br />
-                Tech Valley, CA 94043<br />
-                United States
+                臺大管二206
               </p>
             </motion.div>
 
@@ -304,8 +302,8 @@ const AboutPage: React.FC = () => {
               </div>
               <h3 className="text-white font-semibold text-lg mb-2">Call Us</h3>
               <p className="text-neutral-400">
-                +1 (555) 123-4567<br />
-                Monday-Friday, 9am-5pm PST
+                +886 0912345678<br />
+                Monday-Friday, 9am-5pm UTC+8
               </p>
             </motion.div>
 
@@ -321,8 +319,7 @@ const AboutPage: React.FC = () => {
               </div>
               <h3 className="text-white font-semibold text-lg mb-2">Email Us</h3>
               <p className="text-neutral-400">
-                info@techproduct.com<br />
-                support@techproduct.com
+                dontcontactus@mail.com<br />
               </p>
             </motion.div>
           </div>
