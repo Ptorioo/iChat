@@ -117,7 +117,7 @@ const HeroSection: React.FC = () => {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.6 }}
-              className="absolute -bottom-6 -left-6 bg-neutral-900 rounded-xl p-4 border border-neutral-800"
+              className="absolute -bottom-16 -left-12 bg-neutral-900 rounded-xl p-4 border border-neutral-800"
             >
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-primary-500/20 rounded-full flex items-center justify-center mr-4">
@@ -134,7 +134,7 @@ const HeroSection: React.FC = () => {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.7 }}
-              className="absolute -top-6 -right-6 bg-neutral-900 rounded-xl p-4 border border-neutral-800"
+              className="absolute -top-16 -right-12 bg-neutral-900 rounded-xl p-4 border border-neutral-800"
             >
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-secondary-500/20 rounded-full flex items-center justify-center mr-4">
